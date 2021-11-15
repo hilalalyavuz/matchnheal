@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Game" android:icon="@drawable/choose" android:id="@+id/game"/>
+    <item android:title="Scores" android:icon="@drawable/grade" android:id="@+id/scores" />
+    <item android:title="Log Out" android:icon="@drawable/logout" android:id="@+id/logout"/>
+</menu>

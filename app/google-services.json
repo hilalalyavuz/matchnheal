@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990308664442",
+    "project_id": "matchnheal",
+    "storage_bucket": "matchnheal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990308664442:android:28c35fa83a3f5061cc67c3",
+        "android_client_info": {
+          "package_name": "com.example.matchnheal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990308664442-2mahchv1t09sglcqse6q3ll2srp3k2rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0DcwqlTf6-G3VLkM7ojvq9T32_bWOGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990308664442-2mahchv1t09sglcqse6q3ll2srp3k2rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
